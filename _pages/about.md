@@ -8,29 +8,27 @@ redirect_from:
 ---
 
 Hi, I’m Casey Wallen.
+
 I specialize in knowledge management, technical documentation, and user support content. My work focuses on making complex systems easier to understand and easier to use.
+
 This portfolio highlights selected projects in knowledge base development, training content, technical writing, and documentation systems.
 
 
-A data-driven personal website
+About Me
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My background is in English Education, where I focused on supporting student learning through writing, instruction, and breaking down complex ideas into something more accessible. I was introduced to IT Operations through a student role in IT Support Services, where I gained hands-on experience and exposure to a field I hadn’t originally planned to pursue.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Working in support exposed me to the gaps between systems and the people using them. Many issues weren’t caused by the technology itself, but by how information was documented, organized, or communicated.
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+That led me into knowledge management. I became more focused on improving documentation rather than just using it, taking on responsibility for how content is structured, maintained, and scaled.
 
-Getting started
+Since then, I’ve worked on projects ranging from knowledge base improvements to broader operational and system-level initiatives. This includes supporting device lifecycle efforts, account and access remediation, documentation for system implementations, and large-scale user communications. Across all of this work, the focus has stayed consistent: make systems easier to understand and reduce the need for support in the first place.
+
+Working in knowledge management has also broadened my perspective across IT systems and services. I’ve developed a working understanding of many areas by supporting the documentation behind them, which allows me to connect information across domains and approach problems with a more holistic view.
+
+Let's Connect!
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+
 
 Site-wide configuration
 ------
