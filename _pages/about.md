@@ -28,5 +28,6 @@ Let's Connect!
 ======
 I’m open to conversations about knowledge management, documentation systems, technical writing, and support-focused projects or roles.
 
-[LinkedIn](https://www.linkedin.com/in/casey-wallen/)
-[Email me](mailto:wallen.casey@yahoo.com)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/casey-wallen/)
+
+[Send me an email](mailto:wallen.casey@yahoo.com)
